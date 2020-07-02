@@ -1,6 +1,5 @@
 <template>
   <div class="hello">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <h1>{{ msg }}</h1>
     <!-- <p>
       For a guide and recipes on how to configure / customize this project,<br>
