@@ -2,11 +2,6 @@
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
     <HelloWorld msg="Welcome to Atom Vue.js App"/> 
-   <center>
-    <a onclick="show()">
-    <i class="fa fa-facebook-official fa-6" aria-hidden="true"></i>
-    </a>
-    </center>
   </div>
 </template>
 
