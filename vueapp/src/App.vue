@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
   components: {
     HelloWorld
   }}
+  
 </script>
 
 
