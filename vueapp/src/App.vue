@@ -7,7 +7,6 @@
     <i class="fa fa-facebook-official fa-6" aria-hidden="true"></i>
     </a>
     </center>
-    <!--<i class="fa fa-facebook-square" aria-hidden="true"></i>-->
   </div>
 </template>
 
